@@ -1,0 +1,11 @@
+{
+  "livePreview": true,
+  "tabSize": 2,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Attachments",
+  "uriCallbacks": true,
+  "newLinkFormat": "shortest",
+  "defaultViewMode": "source"
+}
