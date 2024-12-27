@@ -11,14 +11,12 @@
             "id": "a5856e5dce7b4877",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Books/شرح كتاب التوحيد/835.md",
-                "mode": "source",
-                "source": false
+                "path": "Books"
               },
               "icon": "lucide-file",
-              "title": "835"
+              "title": "Books"
             }
           }
         ]
@@ -200,9 +198,10 @@
   },
   "active": "a5856e5dce7b4877",
   "lastOpenFiles": [
+    "Books/Books.md",
+    "Books/شرح كتاب التوحيد/835.md",
     "Attachments/Pasted image 20241227211228.png",
     "Books/شرح كتاب التوحيد/827.md",
-    "Books/شرح كتاب التوحيد/835.md",
     "Attachments/Pasted image 20241227205838.png",
     "Attachments/Pasted image 20241227205659.png",
     "Books/شرح كتاب التوحيد/813-814.md",
@@ -219,11 +218,9 @@
     "Attachments/Pasted image 20241227150828.png",
     "README.md",
     "2024.12.26-22.38.08.PM.md",
-    "Books/Books.md",
     "Attachments/Pasted image 20241226132353.png",
     "Attachments/Pasted image 20241226132228.png",
     "Attachments/Pasted image 20241226122104.png",
-    "Attachments/Pasted image 20241226121641.png",
     "Tags/Tags.md",
     "Books/Untitled.canvas",
     "Books/شرح كتاب التوحيد 1/شرح كتاب التوحيد 1.md",
